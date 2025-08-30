@@ -1,4 +1,6 @@
 # IRSIE
+<img width="350" height="600" alt="{113243D8-A510-48A3-B17A-0245516CDFD6}" src="https://github.com/user-attachments/assets/57e0b91f-5aea-4c9f-b43e-dbadd48baab6" />
+
 IRS Intelligence Engine - SLM For IRS Tax Solutions 
 ---
 
