@@ -1,29 +1,24 @@
 # IRSIE
+**Small Language Model for Tax Code Interpretation and Compliance**
 <img width="350" height="600" alt="{113243D8-A510-48A3-B17A-0245516CDFD6}" src="https://github.com/user-attachments/assets/57e0b91f-5aea-4c9f-b43e-dbadd48baab6" />
 
-# IRSIE - IRS Intelligence Engine
-**Small Language Model for Tax Code Interpretation and Compliance**
-
-# IRSIE - IRS Intelligence Engine
-**Small Language Model for Tax Code Interpretation and Compliance**
-
-## What IRSIE Does
+## What IRSIE Does :
 IRSIE transforms complex tax regulations into programmatic answers. Built by fine-tuning transformer models on the complete IRS regulatory corpus, it provides authoritative tax interpretations with source citations through a production API.
 
-## Core Capabilities
+## Core Capabilities :
 - **Tax Code Interpretation**: Natural language queries return precise regulatory guidance
 - **Form Processing**: Automated analysis of W-2, 1099, and standard tax forms  
 - **Compliance Validation**: Deterministic calculations using official IRS methodologies
 - **Source Attribution**: Every response includes exact regulatory citations
 
-## Target Applications
+## Target Applications :
 - Enterprise payroll compliance systems
 - Tax professional research platforms
 - Real estate investment calculators
 - Small business automation tools
 - Financial advisory tax planning modules
 
-## Performance SLAs
+## Min Performance SLAs : 
 - **Inference Latency**: P95 < 200ms per query
 - **Accuracy**: 94.2% on IRS compliance benchmarks
 - **Availability**: 99.9% API uptime
